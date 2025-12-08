@@ -33,4 +33,4 @@ async-trait = "0.1"
 
 [dev-dependencies]
 tracing-subscriber = "0.3"
-uuid = { version = "1.0", features = ["v4", "serde"] }
+uuid = { version = "1.19", features = ["v4", "serde"] }
